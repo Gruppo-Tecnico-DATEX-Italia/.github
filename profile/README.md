@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Gruppo Tecnico DATEX II Italia logo](https://github.com/Gruppo-Tecnico-DATEX-Italia/.github/blob/main/profile/GTFI-avatar-grey.png)
+![Gruppo Tecnico DATEX II Italia logo](https://github.com/Gruppo-Tecnico-DATEX-Italia/.github/blob/main/profile/GTFI-avatar-blue.png)
 
 Il protocollo DATEX II, promosso dalla Unione Europea e convertito in standard dal CEN come famiglia di standard EN 16157-x, è il formato che rende disponibili le informazioni sul traffico nella rete stradale come previsto dalla direttiva europea sugli Intelligent Transport Systems (EU 40/2010) e suoi regolamenti attuativi, recepita in Italia con l'approvazione del decreto-legge del 18/10/2012 n. 179 art. 8.
 
