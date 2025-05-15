@@ -21,3 +21,8 @@ Se si è interessati a partecipare al gruppo di coordinamento DATEX IT inviare u
 
 Per informazioni sul protocollo DATEX II si veda il sito UE www.datex2.eu
 
+i repository di riferimetno di questo progetto sono 
+
+- Estensione e profilo DATEX II italia per la versione 2.x, aggiornato alla 2.3 per la pubblicazione di Eventi (Situation Publication) https://github.com/Gruppo-Tecnico-DATEX-Italia/Profilo-DATEX-IT---DATEX-II-v2.3 
+- Profilo DATEX II Italia per la versione 3.x, per la pubblicazione di Eventi (Situation Publication) https://github.com/Gruppo-Tecnico-DATEX-Italia/Profilo-DATEX-IT-v3.x-SituationPublication-RC1 
+
