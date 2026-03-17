@@ -26,7 +26,7 @@ i repository di riferimetno di questo progetto sono
 - Estensione e profilo DATEX II italia per la versione 2.x, aggiornato alla 2.3 per la pubblicazione di Eventi (Situation Publication) https://github.com/Gruppo-Tecnico-DATEX-Italia/Profilo-DATEX-IT---DATEX-II-v2.3 
 - Profilo DATEX II Italia per la versione 3.x, per la pubblicazione di Eventi (Situation Publication) https://github.com/Gruppo-Tecnico-DATEX-Italia/Profilo-DATEX-IT-v3.x-SituationPublication-RC1 
 
-gli enti e organizzazioni partecipanti pro tempore al gruppo tecnico DATEX Italia sono le seguenti
+gli enti e organizzazioni partecipanti pro tempore al gruppo tecnico DATEX Italia sono i seguenti:
 
 1. Autostrade per l'Italia, coordinatore
 2. 5T Torino
@@ -45,5 +45,5 @@ gli enti e organizzazioni partecipanti pro tempore al gruppo tecnico DATEX Itali
 15. Milano Serravalle e Tangenziali
 16. Polizia Stradale (invitata)
 17. SINA (invitata)
-18. SINELEC
-19. Softech (per Brennero, Autovie Alto Adriatico)
+18. SINELEC (gruppo ASTM)
+19. Softech (Brennero, Autovie Alto Adriatico, Brescia-Padova)
